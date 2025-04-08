@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/c98e8a21-05a2-445d-b8de-14edb891bcd0/linked_in_profile)
 - [Google Data Analytics Certificate](https://www.credly.com/badges/14723668-2ab7-4269-95d7-3901aa6f8309/public_url)
 - [SQL Intermediate – HackerRank](https://www.hackerrank.com/certificates/7e7564db1155)
-- [Data Science Certificate](https://www.credly.com/badges/0956573d-2970-4d01-b0b6-b0e3725802ce/public_url)
 
 ---
 
