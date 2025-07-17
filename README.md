@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## 📚 Certifications
 
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/VLopezCh/B166C1D736916F7D?sharingId=85B8D8B58CD0BCED)
 - [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/2110d55d-df22-4c23-baf2-8f05eaa8276b/linked_in_profile)
 - [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/c98e8a21-05a2-445d-b8de-14edb891bcd0/linked_in_profile)
 - [Google Data Analytics Certificate](https://www.credly.com/badges/14723668-2ab7-4269-95d7-3901aa6f8309/public_url)
